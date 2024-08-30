@@ -1,16 +1,9 @@
 # correlation_and_regression
 
-A new Flutter project.
+This is an applcation to find the solutions for most demanding problem of correlation and regression. It has different way to find correlation with the great GUI which helps user to find the best option.
 
-## Getting Started
+In this user can find it's solution with it's step so they can refere it latter.
 
-This project is a starting point for a Flutter application.
+# Licence
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This applicaiton is free for everyone and anyone can use it. 😊
